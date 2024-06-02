@@ -1,10 +1,10 @@
 ## UNISWAP
 ### V2
 
-https://docs.sushi.com/docs/Products/Classic%20AMM/Deployment%20Addresses
+https://docs.uniswap.org/contracts/v2/reference/smart-contracts/v2-deployments
 
-V2Factory       :   0xc35DADB65012eC5796536bD9864eD8773aBc74C4 <br/>
-V2Router02      :   0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506 <br/>
+V2Factory       :   0x9e5A52f57b3038F1B8EeE45F28b3C1967e22799C <br/>
+V2Router02      :   0xedf6066a2b290C185783862C7F4776A2C8077AD1 <br/>
 
 ### V3
 
